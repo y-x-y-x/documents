@@ -1,6 +1,6 @@
 (1) (364/365)^n + n*(1/365)*(364/365)^{n-1}
-(2a) P(X \geq 1) = 1 - P(X = 0) = 1- (0.98)^3 = 0.058808
+(2a) 
 (2b) n \geq log(0.5)/log(0.98)
 (3) 4/7
 
-For (2a), you can do P(X=1) + P(X=2) + P(X=3), but should get the same answer as above. Very often, if you find that your approach is too complicated, consider the complement event, it may help.
+
