@@ -1,3 +1,14 @@
+## Test 1 Score Distribution
+
+- **x** represents the score (out of 20)
+- **x <= 17**: 89 students
+- **x = 18**: 92 students
+- **x = 19**: 124 students
+- **x = 20**: 187 students
+- **Mean score (x)**: 18.5
+
+
+
 ## Some suggestions
 
 - I tend to make changes and updates from time to time, sometimes the answers I wrote may be wrong and I will correct it as soon as I discover it.
