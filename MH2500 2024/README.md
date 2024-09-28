@@ -3,7 +3,7 @@
 - **x** represents the score (out of 20)
 - **x <= 17**: 89 students
 - **x = 18**: 92 students
-- **x = 19**: 124 students
+- **x = 19**: 125 students
 - **x = 20**: 187 students
 - **Mean score (x)**: 18.5
 
